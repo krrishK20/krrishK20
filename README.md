@@ -343,7 +343,7 @@
   <a href="https://www.linkedin.com/in/krrish-molla-a723691b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
+  <a href="https://x.com/krrish126" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   </a>
   <a href="mailto:krrishmolla12@gmail.com" target="_blank">
