@@ -5,8 +5,12 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&multiline=true&width=800&height=160&lines=Hey%2C+I'm+Krrish+%F0%9F%A6%9E;Backend+Engineer+%7C+Security+Researcher;Bug+Bounty+Hunter+%7C+CTF+Player;Building+%F0%9F%94%A7+%C2%B7+Breaking+%F0%9F%94%93+%C2%B7+Securing+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&height=55&lines=Backend+Engineer;Security+Researcher;Bug+Bounty+Hunter;Building+%F0%9F%94%A7+%C2%B7+Breaking+%F0%9F%94%93+%C2%B7+Securing+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
+
+<h3 align="center">
+  <samp>Hey, I'm <b>Krrish</b> 🦞</samp>
+</h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=krrishK20&label=Profile+Views&color=00FFAA&style=for-the-badge" alt="Profile Views" />
