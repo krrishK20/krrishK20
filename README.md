@@ -340,7 +340,7 @@
   <a href="https://github.com/krrishK20" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/yourhandle" target="_blank">
+  <a href="www.linkedin.com/in/krrish-molla-a723691b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://twitter.com/yourhandle" target="_blank">
