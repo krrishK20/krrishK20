@@ -1,9 +1,9 @@
-name: 3D Contribution Calendar
+﻿name: 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight
-  workflow_dispatch:       # Manual trigger
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
