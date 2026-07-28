@@ -26,22 +26,22 @@
 <tr>
 <td>
 
-```text
-🦞  Krrish Molla  ·  he/him  ·  India
+<pre>
+🦞  <b>Krrish Molla</b>  ·  he/him  ·  India
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   Backend engineer and security researcher focused on
   web application security and bug bounty hunting.
 
-  🎯 Bug Bounty  ·  Intigriti & HackerOne
-  🔍 Recon Automation  ·  Subdomain → URL → JS pipeline
-  🛡️ Web & API Security  ·  OWASP Top 10
-  ⚙️ Backend  ·  Go / Python / PostgreSQL / Docker
-  🐧 Env  ·  Kali Linux + Neovim + Tmux
+  🎯  Bug Bounty         ·  Intigriti &amp; HackerOne
+  🔍  Recon Automation    ·  Subdomain → URL → JS pipeline
+  🛡️  Web &amp; API Security  ·  OWASP Top 10
+  ⚙️  Backend             ·  Go / Python / PostgreSQL / Docker
+  🐧  Env                 ·  Kali Linux + Neovim + Tmux
 
-  "Security is not a product, but a process."
+  <i>"Security is not a product, but a process."</i>
                               — Bruce Schneier
-```
+</pre>
 
 </td>
 <td width="360px" align="center">
