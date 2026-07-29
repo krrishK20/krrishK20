@@ -144,8 +144,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krrishK20/krrishK20/output-3d-contrib/profile-night-green.svg">
-    <img alt="3D Isometric Map" src="https://raw.githubusercontent.com/krrishK20/krrishK20/output-3d-contrib/profile-night-green.svg" width="92%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krrishK20/krrishK20/main/profile-3d-contrib/profile-night-green.svg">
+    <img alt="3D Isometric Map" src="https://raw.githubusercontent.com/krrishK20/krrishK20/main/profile-3d-contrib/profile-night-green.svg" width="92%">
   </picture>
 </p>
 

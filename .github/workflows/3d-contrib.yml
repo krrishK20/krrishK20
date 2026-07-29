@@ -1,4 +1,4 @@
-﻿name: 3D Contribution Calendar
+name: 3D Contribution Calendar
 
 on:
   schedule:
@@ -9,13 +9,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate 3D contrib calendar
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       
       - name: Generate 3D profile contrib
         uses: yoshi389111/github-profile-3d-contrib@0.8.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: *** secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
       - name: Commit & Push
