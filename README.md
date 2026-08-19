@@ -106,22 +106,6 @@ $ cat bio.txt
   <img width="66%" src="https://github-readme-activity-graph.vercel.app/graph?username=krrishK20&theme=github-compact&bg_color=0D1117&hide_border=true&color=00FFAA&line=00FFAA&point=00FFAA80&area=true&area_color=00FFAA10&days=30" />
 </p>
 
-### 🌍 Contribution Map
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krrishK20/krrishK20/main/profile-3d-contrib/profile-night-green.svg">
-    <img alt="3D isometric map" src="https://raw.githubusercontent.com/krrishK20/krrishK20/main/profile-3d-contrib/profile-night-green.svg" width="92%">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krrishK20/krrishK20/output/github-contribution-grid-snake-dark.svg">
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/krrishK20/krrishK20/output/github-contribution-grid-snake-dark.svg" width="92%">
-  </picture>
-</p>
-
 ---
 
 ### 🏆 Bug Bounty
